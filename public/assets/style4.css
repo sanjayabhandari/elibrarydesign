@@ -1,0 +1,81 @@
+.card5{
+    line-height: 3;
+    border:0px;
+    background-color:#E2E2E2;
+}
+.click1{
+    border:0px;
+}
+.img2{
+        width: 117px;
+        height: 64px;
+        background: #E2E2E2;
+}
+.img3{
+    width: 100px;
+height: 84px;
+margin-left: 22px;
+margin-top: 18px;
+}
+.btn3{
+    width:100px;
+    margin-left:25px;
+}
+.borders{
+    border:2px solid brown;
+}
+.heading,.heading3,.heading5{
+    background:#460001;
+    color:white;
+    text-align:center;
+    width:81px;
+    margin:0 auto;
+    margin-top:-15px;
+    height:32px;
+    padding-top:3px;
+}
+.hiding2,.hiding3{
+    display:none;
+}
+.cardhover1{
+    transition: box-shadow 1500ms;
+}
+.cardhover1:hover{
+    box-shadow: -1px 1px 10px 3px rgba(0,0,0,0.75);
+    background-color:#E2E2E2;
+}
+.card{
+    border:0px;
+}
+#testactive{
+    box-shadow: -1px 1px 10px 3px rgba(0,0,0,0.75);
+    background-color:#E2E2E2;
+}
+
+ a{
+    color:black;
+}
+.nav-link.active{
+    color:red !important;
+} 
+
+.showcase{
+    background:url('image/showcase.jpg');
+    background-size: 100% 100%;
+    height: 754px;
+
+}
+.aam{
+    width: 116px;
+height: 130px;
+margin-top: 2px;
+margin-left: 30px;
+padding-left: 30px;
+}
+.aam:hover{
+    margin-top:-10px;
+    cursor:pointer;
+}
+.ca1{
+    background:transparent;
+}

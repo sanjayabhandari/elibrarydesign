@@ -1,0 +1,239 @@
+.sliderimg {
+    width: 100%;
+    height: 518px;
+}
+
+.carousel-indicators>li {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: #4C0001;
+}
+.mytext1{
+    margin-left: 53px;
+    margin-right: 52px
+}
+
+.myline1{
+    margin-left:30px;
+    width:95%;
+}
+.btn1 {
+    width: 200px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 2px solid black;
+}
+
+hr {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+.box {
+    border: 3px solid grey;
+    border-radius: 20px;
+    width: 90px;
+    height: 90px;
+    margin-left: 115px;
+}
+
+.box:hover {
+    color: orange;
+    border: 3px solid orange;
+}
+
+.link1:hover {
+    color: orange;
+}
+
+.book {
+    height: 415px;
+}
+
+.liteart {
+    width: 165px;
+    margin-left: -20px;
+}
+
+.card1 {
+    width: 10rem;
+    border: 0px;
+}
+
+.arts {
+    height: 140px;
+}
+
+.artshover {
+    height: 368px;
+    width: 270px;
+}
+
+.card2 {
+    width: 13rem;
+    border: 0px;
+}
+
+.btn2 {
+    width: 100px;
+    margin-right: -4px;
+    border-radius: 0px;
+    border: 1px solid white;
+    background-color: #430001;
+    color: white;
+    box-shadow: 1px 3px #430001;
+}
+
+.btn2:hover {
+    background-color: blue;
+
+}
+
+.c12 {
+    height: 286px;
+}
+
+.c13 {
+    height: 282px;
+}
+
+hr.type_4 {
+    border: 0;
+    height: 55px;
+    background-image: url(image/type_4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.head {
+    font-size: 30px;
+}
+
+.image {
+    width: 200px;
+    height: 300px;
+}
+
+.card3 {
+    border: 0px;
+}
+
+.container1 {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+
+.image1 {
+    display: block;
+    width: 200px;
+    height: 300px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 200px;
+    height: 300px;
+    opacity: 0;
+    transition: .3s ease;
+    background-color: #430001;
+}
+
+.container1:hover .overlay {
+    opacity: 0.9;
+}
+
+.card4 {
+    padding: 0px;
+    padding-top: 6px;
+}
+
+.btn3 {
+    width: 140px;
+    border: 1px solid green;
+    border-radius: 0px;
+    background-color: #430001;
+}
+
+.img2 {
+    width: 100px;
+    height: 100px;
+    margin-top: -5px;
+    border-radius: 50%;
+}
+
+.cardhidden,
+.cardhidden1,
+.cardhidden2,
+.cardhidden3,
+.cardhidden4,
+.cardhidden5 {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .sliderimg {
+        height: auto;
+    }
+
+    .book {
+        height: auto;
+    }
+
+    .card1 {
+        width: 100%;
+        padding-right: 30px;
+        border: 0px;
+        text-align: center;
+    }
+
+    .liteart {
+        width: auto;
+        margin-left: 0px;
+    }
+
+    .card2 {
+        width: auto;
+        border: 0px;
+        padding-right: 30px;
+        padding-top: 30px;
+    }
+
+    .card3 {
+        width: 100%;
+        margin-top: 15px;
+
+    }
+
+    .image1 {
+        width: 300px;
+        height: 153px;
+        margin-left: 0px;
+    }
+
+    .card4 {
+        width: 100%;
+    }
+
+    .overlay {
+        width: 300px;
+        height: 150px;
+        margin-left: 0px;
+    }
+
+    .btn2 {
+        margin-left: 30px;
+    }
+
+    .img2 {
+        margin-left: 30%;
+    }
+}

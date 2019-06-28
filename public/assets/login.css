@@ -1,0 +1,14 @@
+.form-control{
+    width: 80%;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+label{
+    margin-left: 30px;
+}
+.btn1{
+    background-color:black;
+    color:white;
+    border-radius: 15px;
+    width:335px;
+}

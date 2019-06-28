@@ -1,0 +1,20 @@
+.img2{ 
+    width: 118px;
+    height: 157px;
+}
+.border{
+    width: 275px;
+}
+.myinput1{
+    margin-left:26px;
+}
+.sort{
+   float:right;
+   margin-right:10px;
+}
+.mybtn3{
+    background:transparent;
+    color:black;
+    margin-top: -5px;
+    margin-left: 11px;
+}
