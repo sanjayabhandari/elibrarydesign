@@ -39,4 +39,112 @@
 </div>
 
 </div>
+<div class="col-lg-9">
+<div class="row no-gutters">
+<div class="col-lg-3 mt-5">
+<div class="card text-white mycard1">
+  <img class="card-img mt-5 img-fluid newsroll" src="{{asset('assets/image/newsroll.png')}}" alt="news roll">
+  <div class="card-img-overlay mt-5">
+   <img src="{{asset('assets/image/kantipur.png')}}" alt="Kantipur News" class="img-fluid news">
+  </div>
+  <div class="card-body text-dark">
+        <p class="card-text mytext1"><b>कान्तिपुर</b></p>
+        <span class="card-text"><i class="fas fa-file-alt"></i> <a href="#" class="pl-2 card-link mylink1">Read Now</a> </span> 
+        
+  </div>
+  </div>
+</div>
+<div class="col-lg-3 mt-5">
+<div class="card text-white mycard1">
+  <img class="card-img mt-5 img-fluid newsroll" src="{{asset('assets/image/newsroll.png')}}" alt="news roll">
+  <div class="card-img-overlay mt-5">
+   <img src="{{asset('assets/image/kantipur.png')}}" alt="Kantipur News" class="img-fluid news">
+  </div>
+  <div class="card-body text-dark">
+        <p class="card-text mytext1"><b>कान्तिपुर</b></p>
+        <span class="card-text"><i class="fas fa-file-alt"></i> <a href="#" class="pl-2 card-link mylink1">Read Now</a> </span> 
+        
+  </div>
+  </div>
+</div>
+<div class="col-lg-3 mt-5">
+<div class="card text-white mycard1">
+  <img class="card-img mt-5 img-fluid newsroll" src="{{asset('assets/image/newsroll.png')}}" alt="news roll">
+  <div class="card-img-overlay mt-5">
+   <img src="{{asset('assets/image/kantipur.png')}}" alt="Kantipur News" class="img-fluid news">
+  </div>
+  <div class="card-body text-dark">
+        <p class="card-text mytext1"><b>कान्तिपुर</b></p>
+        <span class="card-text"><i class="fas fa-file-alt"></i> <a href="#" class="pl-2 card-link mylink1">Read Now</a> </span> 
+        
+  </div>
+  </div>
+</div>
+<div class="col-lg-3 mt-5">
+<div class="card text-white mycard1">
+  <img class="card-img mt-5 img-fluid newsroll" src="{{asset('assets/image/newsroll.png')}}" alt="news roll">
+  <div class="card-img-overlay mt-5">
+   <img src="{{asset('assets/image/kantipur.png')}}" alt="Kantipur News" class="img-fluid news">
+  </div>
+  <div class="card-body text-dark">
+        <p class="card-text mytext1"><b>कान्तिपुर</b></p>
+        <span class="card-text"><i class="fas fa-file-alt"></i> <a href="#" class="pl-2 card-link mylink1">Read Now</a> </span> 
+        
+  </div>
+  </div>
+</div>
+<div class="col-lg-3 mt-5">
+<div class="card text-white mycard1">
+  <img class="card-img mt-5 img-fluid newsroll" src="{{asset('assets/image/newsroll.png')}}" alt="news roll">
+  <div class="card-img-overlay mt-5">
+   <img src="{{asset('assets/image/kantipur.png')}}" alt="Kantipur News" class="img-fluid news">
+  </div>
+  <div class="card-body text-dark">
+        <p class="card-text mytext1"><b>कान्तिपुर</b></p>
+        <span class="card-text"><i class="fas fa-file-alt"></i> <a href="#" class="pl-2 card-link mylink1">Read Now</a> </span> 
+        
+  </div>
+  </div>
+</div>
+<div class="col-lg-3 mt-5">
+<div class="card text-white mycard1">
+  <img class="card-img mt-5 img-fluid newsroll" src="{{asset('assets/image/newsroll.png')}}" alt="news roll">
+  <div class="card-img-overlay mt-5">
+   <img src="{{asset('assets/image/kantipur.png')}}" alt="Kantipur News" class="img-fluid news">
+  </div>
+  <div class="card-body text-dark">
+        <p class="card-text mytext1"><b>कान्तिपुर</b></p>
+        <span class="card-text"><i class="fas fa-file-alt"></i> <a href="#" class="pl-2 card-link mylink1">Read Now</a> </span> 
+        
+  </div>
+  </div>
+</div>
+<div class="col-lg-3 mt-5">
+<div class="card text-white mycard1">
+  <img class="card-img mt-5 img-fluid newsroll" src="{{asset('assets/image/newsroll.png')}}" alt="news roll">
+  <div class="card-img-overlay mt-5">
+   <img src="{{asset('assets/image/kantipur.png')}}" alt="Kantipur News" class="img-fluid news">
+  </div>
+  <div class="card-body text-dark">
+        <p class="card-text mytext1"><b>कान्तिपुर</b></p>
+        <span class="card-text"><i class="fas fa-file-alt"></i> <a href="#" class="pl-2 card-link mylink1">Read Now</a> </span> 
+        
+  </div>
+  </div>
+</div>
+<div class="col-lg-3 mt-5">
+<div class="card text-white mycard1">
+  <img class="card-img mt-5 img-fluid newsroll" src="{{asset('assets/image/newsroll.png')}}" alt="news roll">
+  <div class="card-img-overlay mt-5">
+   <img src="{{asset('assets/image/kantipur.png')}}" alt="Kantipur News" class="img-fluid news">
+  </div>
+  <div class="card-body text-dark">
+        <p class="card-text mytext1"><b>कान्तिपुर</b></p>
+        <span class="card-text"><i class="fas fa-file-alt"></i> <a href="#" class="pl-2 card-link mylink1">Read Now</a> </span> 
+        
+  </div>
+  </div>
+</div>
+</div>
+</div>
 </div>
